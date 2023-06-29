@@ -40,7 +40,17 @@
 }
 
 .escola-titulo{
-    padding: 24px 0;
+    padding: 24px 0;<style>
+    img{
+        height:40% ;
+        width: 50%;
+        image-orientation: center;
+    }
+    body{
+        background-color: rgb(124, 24, 24);
+    }
+</style>
+
 }
 
 .estudante-imagem{
